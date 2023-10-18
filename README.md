@@ -14,7 +14,7 @@
 
 <h1>Resolução do Projeto</h1>
 
-Entre <a href="https://github.com/anajuliab/dio_bi_desafio/blob/main/power%20bi%20dio%20desafio.pbix" target="_blank">aqui</a>.
+Entre <a href="https://github.com/anajuliab/dio_dados_bi/blob/main/power%20bi%20desfio%20dio.pbix" target="_blank">aqui</a>.
 
 <h1>Conecte-se comigo</h1>
 
